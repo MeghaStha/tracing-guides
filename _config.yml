@@ -1,0 +1,5 @@
+name: 'OSM Tracing Guides'
+baseurl: '/tracing-guides'
+permalink: none
+exclude: [CNAME]
+markdown: rdiscount
