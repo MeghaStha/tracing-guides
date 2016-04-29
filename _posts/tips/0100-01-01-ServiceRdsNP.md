@@ -1,4 +1,3 @@
-
 ---
 tipid: ServiceRdsNP
 title: Serive Roads
@@ -9,7 +8,7 @@ images:
 
 tags: [Ecuador, Earthquake, Roads]
 ---
-Line feature
+
 
 ###highway=service
 For access roads to, or within an industrial estate, camp site, business park, car park etc. Can be used in conjunction with service=* to indicate the type of usage and with access=* to indicate who can use it and in what circumstances.
