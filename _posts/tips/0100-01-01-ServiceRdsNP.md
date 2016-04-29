@@ -1,6 +1,6 @@
 ---
 tipid: ServiceRdsNP
-title: Sericve Roads
+title: Service Roads
 category: tip
 layout: tip-preview
 images:
