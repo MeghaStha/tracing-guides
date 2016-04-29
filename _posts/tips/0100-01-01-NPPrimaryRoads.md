@@ -5,7 +5,8 @@ category: tip
 layout: tip-preview
 images:
   - http://i.imgur.com/KYblo2y.png?1
-  tags: [Nepal, Earthquake, Roads]
+  
+tags: [Nepal, Earthquake, Roads]
 ---
 Line feature
 
